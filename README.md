@@ -1,4 +1,4 @@
-# museum-app
+# arduino-bot
 
 arduino
 johnny-five

@@ -4,16 +4,17 @@
   "description": "Three wheeled bot sonar",
   "main": "index.js",
   "repository": {
-    "type": "git"
-    "url": "https://github.com/codedogi/"
+    "type": "git",
+    "url": "https://github.com/codedogi/arduino-bot.git"
   },
-  "homepage": "https://github.com/codedogi/",
+  "homepage": "https://github.com/codedogi/arduino-bot",
   "keywords": [
     "arduino",
     "johnny-five",
     "bot"
   ],
   "dependencies": {
+    "johnny-five": "^0.9.19"
   },
   "author": "Rich Spencer <hrspencer@hotmail.com>",
   "contributors": [
@@ -24,8 +25,7 @@
   ],
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/codedogi/"
+    "url": "https://github.com/codedogi/arduino-bot/issues"
   },
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }
